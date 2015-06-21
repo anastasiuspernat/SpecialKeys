@@ -1,0 +1,3 @@
+/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m: In function 'callback2':
+/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m:457: warning: cast from pointer to integer of different size
+/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m:458: warning: cast from pointer to integer of different size

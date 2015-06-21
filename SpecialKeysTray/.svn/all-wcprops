@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/SpecialKeysTray
+END
+SpecialKeysTray-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/SpecialKeysTray/SpecialKeysTray-Info.plist
+END
+basics.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/SpecialKeysTray/basics.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/SpecialKeysTray/main.m
+END
+SpecialKeysTray_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/SpecialKeysTray/SpecialKeysTray_Prefix.pch
+END
+SpecialKeysTrayAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/SpecialKeysTray/SpecialKeysTrayAppDelegate.m
+END
+basics.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/SpecialKeysTray/basics.h
+END
+SpecialKeysTrayAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/SpecialKeysTray/SpecialKeysTrayAppDelegate.h
+END

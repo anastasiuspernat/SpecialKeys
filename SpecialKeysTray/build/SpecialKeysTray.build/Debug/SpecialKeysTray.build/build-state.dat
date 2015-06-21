@@ -1,0 +1,338 @@
+TSpecialKeysTray
+v7
+r0
+t315605967.006296
+cCheck dependencies
+cProcessInfoPlistFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Info.plist SpecialKeysTray-Info.plist
+cCopyStringsFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch.gch SpecialKeysTray_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/main.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTrayAppDelegate.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/connectToVoodoo.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/LogDebug.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/basics.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/MacOS/SpecialKeysTray normal x86_64
+cTouch /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004A7680BE00000000000005FE
+t1249280190
+s1534
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004CD5D645000000000000A5F0
+t1289082437
+s42480
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004C8AD97D000000000017B260
+t1284168061
+s1552992
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/LogDebug.h
+c000000004D22A679000000000000013C
+t1294116473
+s316
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/UserKernelShared.h
+c000000004D195AEA000000000000039D
+t1293507306
+s925
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/basics.h
+c000000004D1F822700000000000000BF
+t1293910567
+s191
+i<Cocoa/Cocoa.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/connectToVoodoo.h
+c000000004D1F8A5A0000000000000251
+t1293912666
+s593
+i<Cocoa/Cocoa.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.h
+c000000004D22A679000000000000013C
+t1294116473
+s316
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m
+c000000004D1F7F20000000000000021E
+t1293909792
+s542
+i"LogDebug.h"
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/UserKernelShared.h
+c000000004D195AEA000000000000039D
+t1293507306
+s925
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.h
+c000000004D1F8A5A0000000000000251
+t1293912666
+s593
+i<Cocoa/Cocoa.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m
+c000000004D1F8BCF0000000000001BC5
+t1293913039
+s7109
+i"connectToVoodoo.h"
+i"UserKernelShared.h"
+i"basics.h"
+i"LogDebug.h"
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/InfoPlist.strings
+c000000004D1BB8C0000000000000002D
+t1293662400
+s45
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/MainMenu.xib
+c000000004D1BB8C0000000000002BBC3
+t1293662400
+s179139
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.h
+c000000004D1BB8C00000000000000150
+t1293662400
+s336
+i<Cocoa/Cocoa.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m
+c000000004D1BB8C0000000000000018D
+t1293662400
+s397
+i"SpecialKeysTrayAppDelegate.h"
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTray_Prefix.pch
+c000000004D1BB8C000000000000000A1
+t1293662400
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.h
+c000000004D1F8C4200000000000000C3
+t1293913154
+s195
+i<Cocoa/Cocoa.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m
+c000000004D1F7EA5000000000000009A
+t1293909669
+s154
+i"basics.h"
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app
+t1293913167
+s102
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Info.plist
+t1293662505
+s981
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/MacOS/SpecialKeysTray
+t1293913166
+s24328
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/PkgInfo
+t1293662505
+s8
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293662506
+s92
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293662506
+s34507
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/LogDebug.o
+t1293913155
+s8824
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTray.LinkFileList
+c000000004D1F8C4300000000000002ED
+t1293913155
+s749
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTrayAppDelegate.o
+t1293662511
+s21336
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/basics.o
+t1293913155
+s4204
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/connectToVoodoo.o
+t1293913092
+s18972
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/main.o
+t1293913166
+s20508
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m
+c000000004D1F8C4E0000000000000D57
+t1293913166
+s3415
+i<Cocoa/Cocoa.h>
+i<Carbon/Carbon.h>
+i"connectToVoodoo.h"
+i"UserKernelShared.h"
+i"LogDebug.h"
+
+N/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch.gch
+t1293662511
+s54212368
+
+NSpecialKeysTray-Info.plist
+c000000004D1BB9190000000000000431
+t1293662489
+s1073
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315605966#315605966#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/LogDebug.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315605955.466863
+e315605955.678707
+r1
+xCompileC
+xbuild/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/LogDebug.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m315605955#315605955#0(0"0(0#0#82"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m4300882208#1831"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-generated-files.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-own-target-headers.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-all-target-headers.hmap -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-project-headers.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/LogDebug.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/LogDebug.o0#
+
+CCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTrayAppDelegate.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315355311.611139
+e315355311.890969
+r1
+xCompileC
+xbuild/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTrayAppDelegate.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m315355311#315355311#0(0"0(0#0#85"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m4300882208#1852"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-generated-files.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-own-target-headers.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-all-target-headers.hmap -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-project-headers.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTrayAppDelegate.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTrayAppDelegate.o0#
+
+CCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/basics.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315605955.678844
+e315605955.900544
+r1
+xCompileC
+xbuild/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/basics.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m315605955#315605955#0(0"0(0#0#65"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m4300882208#1812"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-generated-files.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-own-target-headers.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-all-target-headers.hmap -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-project-headers.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/basics.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/basics.o0#
+
+CCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/connectToVoodoo.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315605892.139607
+e315605892.676474
+r1
+xCompileC
+xbuild/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/connectToVoodoo.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m: In function '-[connectToVoodoo disconnect]':
+o/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m:27: warning: unused variable 'kernResult'
+lSLF07#2@97"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m315605892#315605892#0(268"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m: In function '-[connectToVoodoo disconnect]':/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m:27: warning: unused variable 'kernResult'1(22@28"Unused variable 'kernResult'315605892#136#132#0(6@89"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m315605839#27#0#27#0#19"unused variable '*'0(0#0#89"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m4300882208#1845"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-generated-files.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-own-target-headers.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-all-target-headers.hmap -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-project-headers.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/../SpecialKeys/connectToVoodoo.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/connectToVoodoo.o0#
+
+CCompileC build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/main.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315605966.556809
+e315605966.940127
+r1
+xCompileC
+xbuild/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/main.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m: In function 'main':
+o/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m:52: warning: unused variable 'err'
+lSLF07#2@71"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m315605966#315605966#0(184"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m: In function 'main':/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m:52: warning: unused variable 'err'1(22@21"Unused variable 'err'315605966#85#99#0(6@63"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m315605966#52#0#52#0#19"unused variable '*'0(0#0#63"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m4300882208#1808"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-generated-files.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-own-target-headers.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-all-target-headers.hmap -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-project-headers.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/main.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/MainMenu.xib
+s315355305.958706
+e315355306.662718
+r1
+xCompileXIB
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315355305#315355306#0(0"0(0#0#83"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/MainMenu.xib4300882208#389"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s315355305.957520
+e315355306.005481
+r1
+xCopyStringsFile
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315355305#315355306#0(0"0(0#0#88"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/English.lproj/InfoPlist.strings4300882208#409"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/MacOS/SpecialKeysTray normal x86_64
+s315605966.940257
+e315605967.002441
+r1
+xLd
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/MacOS/SpecialKeysTray
+xnormal
+xx86_64
+lSLF07#2@124"Link /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/MacOS/SpecialKeysTray315605966#315605967#0(0"0(0#0#0"4300882208#707"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -filelist /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/Objects-normal/x86_64/SpecialKeysTray.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Carbon -framework IOKit -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/MacOS/SpecialKeysTray0#
+
+CProcessInfoPlistFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Info.plist SpecialKeysTray-Info.plist
+s315355305.953601
+e315355305.957393
+r1
+xProcessInfoPlistFile
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Info.plist
+xSpecialKeysTray-Info.plist
+lSLF07#2@34"Process SpecialKeysTray-Info.plist315355305#315355305#0(0"0(0#0#83"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTray-Info.plist4300882208#388"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    builtin-infoPlistUtility SpecialKeysTray-Info.plist -genpkginfo /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch.gch SpecialKeysTray_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315355306.662874
+e315355311.608712
+r1
+xProcessPCH
+x/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch.gch
+xSpecialKeysTray_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SpecialKeysTray_Prefix.pch315355306#315355311#0(0"0(0#0#83"/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTray_Prefix.pch4300882208#1688"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-generated-files.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-own-target-headers.hmap -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-all-target-headers.hmap -iquote /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/SpecialKeysTray-project-headers.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/SpecialKeysTray.build/Debug/SpecialKeysTray.build/DerivedSources -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/SpecialKeysTray_Prefix.pch -o /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeysTray_Prefix-fowfqcvljvrjyycgjifstcqytehk/SpecialKeysTray_Prefix.pch.gch0#
+
+CTouch /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app
+s315605967.002590
+e315605967.006248
+r1
+xTouch
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app
+lSLF07#2@94"Touch /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app315605967#315605967#0(0"0(0#0#0"4300882208#175"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray    /usr/bin/touch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeysTray/build/Debug/SpecialKeysTray.app0#
+

@@ -1,0 +1,346 @@
+TSpecialKeys
+v7
+r0
+t315020606.776606
+cCheck dependencies
+cProcessInfoPlistFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyTiffFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/SpecialKeysPref.tiff SpecialKeysPref.tiff
+cCompileXIB /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib
+cProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-agdcnmbebkcymferlidjyzgztyjy/SpecialKeys_Prefix.pch.gch SpecialKeys_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-dkbpmeovyvjugqawosghalewamst/SpecialKeys_Prefix.pch.gch SpecialKeys_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-eqcbtfcaahvqvjclvvwxghrkdnuk/SpecialKeys_Prefix.pch.gch SpecialKeys_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeysPref.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeysPref.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys normal x86_64
+cLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys normal i386
+cCompileC build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeysPref.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys normal ppc
+cCreateUniversalBinary /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane.dSYM /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys
+cTouch /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004A67D2A800000000000017ED
+t1248318120
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/PreferencePanes.framework/Headers/PreferencePanes.h
+c000000004A49A2AC0000000000000098
+t1246339756
+s152
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/PreferencePanes.framework/PreferencePanes
+c000000004C4E8B5F00000000000BA030
+t1280215903
+s761904
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/InfoPlist.strings
+c000000004D1667C900000000000000E6
+t1293313993
+s230
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib
+c000000004D169DA60000000000010192
+t1293327782
+s65938
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.h
+c000000004D1667C90000000000000117
+t1293313993
+s279
+i<PreferencePanes/PreferencePanes.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m
+c000000004D1667C900000000000000F6
+t1293313993
+s246
+i"SpecialKeysPref.h"
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.tiff
+c000000004D1667C9000000000000075E
+t1293313993
+s1886
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch
+c000000004D1667C900000000000000C2
+t1293313993
+s194
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane
+t1293327806
+s102
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane.dSYM
+t1293327806
+s102
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Info.plist
+t1293327792
+s983
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys
+t1293327806
+s41656
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+t1293327793
+s230
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj/SpecialKeysPref.nib
+t1293327793
+s12366
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/SpecialKeysPref.tiff
+t1293327793
+s1886
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys
+t1293327806
+s8796
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys.LinkFileList
+c000000004D169DB0000000000000008D
+t1293327792
+s141
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeysPref.o
+t1293327805
+s12288
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys
+t1293327806
+s12984
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys.LinkFileList
+c000000004D169DB0000000000000008C
+t1293327792
+s140
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeysPref.o
+t1293327806
+s12284
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys
+t1293327805
+s9352
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys.LinkFileList
+c000000004D169DB0000000000000008F
+t1293327792
+s143
+
+N/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeysPref.o
+t1293327805
+s13368
+
+N/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-agdcnmbebkcymferlidjyzgztyjy/SpecialKeys_Prefix.pch.gch
+t1293327800
+s52175920
+
+N/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-dkbpmeovyvjugqawosghalewamst/SpecialKeys_Prefix.pch.gch
+t1293327800
+s54809680
+
+N/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-eqcbtfcaahvqvjclvvwxghrkdnuk/SpecialKeys_Prefix.pch.gch
+t1293327805
+s52044656
+
+NInfo.plist
+c000000004D1667C90000000000000421
+t1293313993
+s1057
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315020592#315020592#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeysPref.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315020605.597286
+e315020605.937738
+r1
+xCompileC
+xbuild/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeysPref.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m315020605#315020605#0(0"0(0#0#70"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m4300882208#1261"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/SpecialKeys.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources/i386 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-dkbpmeovyvjugqawosghalewamst/SpecialKeys_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeysPref.o0#
+
+CCompileC build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeysPref.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s315020606.001903
+e315020606.360624
+r1
+xCompileC
+xbuild/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeysPref.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m315020606#315020606#0(0"0(0#0#70"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m4300882208#1255"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/SpecialKeys.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources/ppc -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-eqcbtfcaahvqvjclvvwxghrkdnuk/SpecialKeys_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeysPref.o0#
+
+CCompileC build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeysPref.o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315020605.595905
+e315020605.899727
+r1
+xCompileC
+xbuild/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeysPref.o
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m315020605#315020605#0(0"0(0#0#70"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m4300882208#1267"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/SpecialKeys.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources -include /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-agdcnmbebkcymferlidjyzgztyjy/SpecialKeys_Prefix.pch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.m -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeysPref.o0#
+
+CCompileXIB /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib
+s315020593.014224
+e315020593.558590
+r1
+xCompileXIB
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib:123: note: This view is clipping its content.
+lSLF07#2@44"CompileXIB English.lproj/SpecialKeysPref.xib315020593#315020593#0(173"/* com.apple.ibtool.document.notices *//Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib:123: note: This view is clipping its content.1(13@34"This view is clipping its content.315020593#18446744073709551615#0#0(6@86"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib315020582#123#0#123#0#0"0(0#0#86"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib4300882208#394"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj/SpecialKeysPref.nib /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/SpecialKeysPref.xib0#
+
+CCopyStringsFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s315020592.967571
+e315020593.032541
+r1
+xCopyStringsFile
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315020592#315020593#0(0"0(0#0#84"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/English.lproj/InfoPlist.strings4300882208#405"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/English.lproj0#
+
+CCopyTiffFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/SpecialKeysPref.tiff SpecialKeysPref.tiff
+s315020592.968707
+e315020593.014098
+r1
+xCopyTiffFile
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources/SpecialKeysPref.tiff
+xSpecialKeysPref.tiff
+lSLF07#2@25"Copy SpecialKeysPref.tiff315020592#315020593#0(0"0(0#0#73"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeysPref.tiff4300882208#287"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff SpecialKeysPref.tiff --outdir /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Resources0#
+
+CCreateUniversalBinary /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys normal "x86_64 i386 ppc"
+s315020606.678630
+e315020606.730781
+r1
+xCreateUniversalBinary
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@108"CreateUniversalBinary build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys normal "x86_64 i386 ppc"315020606#315020606#0(0"0(0#0#68"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/x86_64 i386 ppc4300882208#615"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    /usr/bin/lipo -create /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys -output /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys0#
+
+CGenerateDSYMFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane.dSYM /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys
+s315020606.730910
+e315020606.772454
+r1
+xGenerateDSYMFile
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane.dSYM
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys
+lSLF07#2@118"GenerateDSYMFile build/Release/SpecialKeys.prefPane.dSYM build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys315020606#315020606#0(0"0(0#0#114"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys4300882208#303"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    /Developer/usr/bin/dsymutil /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/MacOS/SpecialKeys -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane.dSYM0#
+
+CLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys normal i386
+s315020605.937869
+e315020606.245639
+r1
+xLd
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys
+xnormal
+xi386
+lSLF07#2@139"Link /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys315020605#315020606#0(0"0(0#0#0"4300882208#696"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -filelist /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework PreferencePanes -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/i386/SpecialKeys0#
+
+CLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys normal ppc
+s315020606.360745
+e315020606.678490
+r1
+xLd
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys
+xnormal
+xppc
+lSLF07#2@138"Link /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys315020606#315020606#0(0"0(0#0#0"4300882208#693"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -filelist /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework PreferencePanes -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/ppc/SpecialKeys0#
+
+CLd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys normal x86_64
+s315020605.899850
+e315020606.001743
+r1
+xLd
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys
+xnormal
+xx86_64
+lSLF07#2@141"Link /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys315020605#315020606#0(0"0(0#0#0"4300882208#702"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -filelist /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework PreferencePanes -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/Objects-normal/x86_64/SpecialKeys0#
+
+CProcessInfoPlistFile /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Info.plist Info.plist
+s315020592.964092
+e315020592.967455
+r1
+xProcessInfoPlistFile
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist315020592#315020592#0(0"0(0#0#63"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/Info.plist4300882208#249"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane/Contents/Info.plist0#
+
+CProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-agdcnmbebkcymferlidjyzgztyjy/SpecialKeys_Prefix.pch.gch SpecialKeys_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315020593.558756
+e315020600.383185
+r1
+xProcessPCH
+x/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-agdcnmbebkcymferlidjyzgztyjy/SpecialKeys_Prefix.pch.gch
+xSpecialKeys_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SpecialKeys_Prefix.pch315020593#315020600#0(0"0(0#0#75"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch4300882208#1131"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/SpecialKeys.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources/x86_64 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch -o /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-agdcnmbebkcymferlidjyzgztyjy/SpecialKeys_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-dkbpmeovyvjugqawosghalewamst/SpecialKeys_Prefix.pch.gch SpecialKeys_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315020593.559904
+e315020601.579249
+r1
+xProcessPCH
+x/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-dkbpmeovyvjugqawosghalewamst/SpecialKeys_Prefix.pch.gch
+xSpecialKeys_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SpecialKeys_Prefix.pch315020593#315020601#0(0"0(0#0#75"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch4300882208#1127"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/SpecialKeys.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources/i386 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch -o /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-dkbpmeovyvjugqawosghalewamst/SpecialKeys_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-eqcbtfcaahvqvjclvvwxghrkdnuk/SpecialKeys_Prefix.pch.gch SpecialKeys_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s315020600.383564
+e315020605.595572
+r1
+xProcessPCH
+x/var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-eqcbtfcaahvqvjclvvwxghrkdnuk/SpecialKeys_Prefix.pch.gch
+xSpecialKeys_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SpecialKeys_Prefix.pch315020600#315020605#0(0"0(0#0#75"/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch4300882208#1122"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/SpecialKeys.hmap -F/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/include -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources/ppc -I/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/SpecialKeys.build/Release/SpecialKeys.build/DerivedSources -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/SpecialKeys_Prefix.pch -o /var/folders/GO/GOtrXEUqGUWxB19a9z+yPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpecialKeys_Prefix-eqcbtfcaahvqvjclvvwxghrkdnuk/SpecialKeys_Prefix.pch.gch0#
+
+CTouch /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane
+s315020606.772578
+e315020606.776555
+r1
+xTouch
+x/Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane
+lSLF07#2@93"Touch /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane315020606#315020606#0(0"0(0#0#0"4300882208#170"    cd /Users/Anastasy/Projects/Programming/Mac/SpecialKeys    /usr/bin/touch -c /Users/Anastasy/Projects/Programming/Mac/SpecialKeys/build/Release/SpecialKeys.prefPane0#
+

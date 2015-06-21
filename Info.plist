@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.${PRODUCT_NAME:identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>specialKeysCodes</key>
+	<dict>
+		<key>Left Alt</key>
+		<string>0x3a</string>
+		<key>Backspace</key>
+		<string>0x33</string>
+		<key>Enter</key>
+		<string>0x24</string>
+		<key>Right Alt</key>
+		<string>0x36</string>
+		<key>Left Shift</key>
+		<string>0x38</string>
+		<key>Right Shift</key>
+		<string>0x3c</string>
+		<key>Left Control</key>
+		<string>0x3b</string>
+		<key>Right Control</key>
+		<string>0x3e</string>
+		<key>Apple Key</key>
+		<string>0x37</string>
+		<key>Tab</key>
+		<string>0x30</string>
+		<key>Caps Lock</key>
+		<string>0x39</string>
+		<key>Num Lock</key>
+		<string>0x47</string>
+		<key>Pause</key>
+		<string>0x71</string>
+		<key>PrtScr</key>
+		<string>0x69</string>
+		<key>Volume Mute</key>
+		<string>0x20</string>
+		<key>Volume Up</key>
+		<string>0x7b</string>
+		<key>Volume Down</key>
+		<string>0x7d</string>
+		<key>Play</key>
+		<string>0x34</string>
+		<key>Play Stop</key>
+		<string>0x46</string>
+		<key>Play Rewind</key>
+		<string>0x42</string>
+		<key>Play Forward</key>
+		<string>0x4d</string>
+		<key>Play Pause</key>
+		<string>0x46</string>
+		<key>Light Up</key>
+		<string>0x50</string>
+		<key>Light Down</key>
+		<string>0x51</string>
+	</dict>
+	<key>defaultLayouts</key>
+	<dict>
+		<key>ALL</key>
+		<dict>
+			<key>Lenovo X61t/X60t</key>
+			<dict>
+				<key>01,Tablet Rotate button</key>
+				<string>0x6c,109</string>
+				<key>02,Tablet Briefcase button</key>
+				<string>0x68,111</string>
+				<key>03,Tablet Esc button</key>
+				<string>0x69,36</string>
+				<key>04,Tablet Left button</key>
+				<string>0x6e,123</string>
+				<key>05,Tablet Right button</key>
+				<string>0x6d,124</string>
+				<key>06,Tablet Up button</key>
+				<string>0x71,126</string>
+				<key>07,Tablet Down button</key>
+				<string>0x6f,125</string>
+				<key>08,Tablet Center button</key>
+				<string>0x6b,53</string>
+				<key>09,Back</key>
+				<string>0xea,{WWW Back}</string>
+				<key>10,Forward</key>
+				<string>0x80,{WWW Forward}</string>
+				<key>11,Volume up</key>
+				<string>0xe0,{Volume Up}</string>
+				<key>12,Volume down</key>
+				<string>0x6a,{Volume Down}</string>
+				<key>13,Mute</key>
+				<string>0,{Volume Mute}</string>
+				<key>14,Blue Thinkvantage button</key>
+				<string>0,</string>
+				<key>15,Fn+F2 (Lock)</key>
+				<string>0,</string>
+				<key>16,Fn+F3 (Battery)</key>
+				<string>0,</string>
+				<key>17,Fn+F4 (Sleep)</key>
+				<string>0,</string>
+				<key>18,Fn+F5 (Radio)</key>
+				<string>0,</string>
+				<key>19,Fn+F7 (???)</key>
+				<string>0,</string>
+				<key>20,Fn+F8 (???)</key>
+				<string>0,</string>
+				<key>21,Fn+F9 (Eject)</key>
+				<string>0,</string>
+				<key>22,Fn+F12 (Hibernate)</key>
+				<string>0,</string>
+				<key>23,Fn+Home (Light up)</key>
+				<string>0,{Light Up}</string>
+				<key>24,Fn+End (Light down)</key>
+				<string>0,{Light Down}</string>
+				<key>25,Fn+ScrLk (NumLock)</key>
+				<string>0,{Num Lock}</string>
+				<key>26,Fn+Left (Play Rewind)</key>
+				<string>0,{Play Rewind}</string>
+				<key>27,Fn+Right (Play Next)</key>
+				<string>0,{Play Forward}</string>
+				<key>28,Fn+Up (Stop)</key>
+				<string>0,{Play Stop}</string>
+				<key>29,Fn+Down (Pause)</key>
+				<string>0,{Pause}</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSMainNibFile</key>
+	<string>SpecialKeysPref</string>
+	<key>NSPrefPaneIconFile</key>
+	<string>SpecialKeysPref.tiff</string>
+	<key>NSPrefPaneIconLabel</key>
+	<string>SpecialKeys</string>
+	<key>NSPrincipalClass</key>
+	<string>SpecialKeysPref</string>
+</dict>
+</plist>
